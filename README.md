@@ -8,4 +8,9 @@ Este repositorio contiene los trabajos prácticos desarrollados en la materia Pr
 * JUnit
 
 ## Prácticas
-[Examenes.](https://github.com/arodriguezfontana/design-patterns-unq/tree/main/examenes)
+[Adapter + Template Method.](https://github.com/arodriguezfontana/design-patterns-unq/tree/main/examenes/formateo) <br/>
+[Strategy + Composite.](https://github.com/arodriguezfontana/design-patterns-unq/blob/main/examenes/ingenieria) <br/>
+[Observer + Strategy.](https://github.com/arodriguezfontana/design-patterns-unq/blob/main/examenes/logger) <br/>
+[State + Template Method.](https://github.com/arodriguezfontana/design-patterns-unq/blob/main/examenes/poliza) <br/>
+[Adapter + Composite.](https://github.com/arodriguezfontana/design-patterns-unq/blob/main/examenes/secretaria) <br/>
+[Strategy + State.](https://github.com/arodriguezfontana/design-patterns-unq/blob/main/examenes/supermercado)
